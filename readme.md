@@ -1,6 +1,7 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/karanvivekbhargava/valgrind_enpm808x.svg?branch=master)](https://travis-ci.org/karanvivekbhargava/valgrind_enpm808x)
-[[![Coverage Status](https://coveralls.io/repos/github/karanvivekbhargava/valgrind_enpm808x/badge.svg?branch=master)](https://coveralls.io/github/karanvivekbhargava/valgrind_enpm808x?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/karanvivekbhargava/valgrind_enpm808x/badge.svg?branch=master)](https://coveralls.io/github/karanvivekbhargava/valgrind_enpm808x?branch=master)
+
 ---
 
 ## Overview
